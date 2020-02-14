@@ -1,6 +1,6 @@
 # CS663 Lab 04 - Hierarchical
 
-* [Full name}:
+* [Full name]:
 
 Datasets for this lab are:
 
