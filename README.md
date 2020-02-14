@@ -1,6 +1,7 @@
 # CS663 Lab 04 - Hierarchical
 
-* [Full name]:
+# * Full name: Armen Khachatrian
+# * email: akhachatrian@dons.usfca.edu
 
 Datasets for this lab are:
 
